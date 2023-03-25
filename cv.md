@@ -13,10 +13,10 @@ Originally a poker player. For a long time I was looking for myself, and here I 
 
 ### Skills:
 
-HTML, CSS basics
-JavaScript basics
-Git, GitHub
-VS Code
+HTML, CSS basics   
+JavaScript basics   
+Git, GitHub  
+VS Code    
 Figma, Adobe Photoshop, Adobe Illustrator
 
 ### Code example:
