@@ -32,11 +32,13 @@ No work experience
 
 ### Education and courses:
 
-*   HTML, CSS, JavaScript:  (https://practicum.yandex.ru/trainer/web/lesson/17973ae9-3a69-437f-9c47-96c82bfc47de/)
-*   The Complete JavaScript Course for Beginners:  (https://youtu.be/CxgOKJh4zWE)
+*   HTML, CSS, JavaScript: [link](https://practicum.yandex.ru/trainer/web/lesson/17973ae9-3a69-437f-9c47-96c82bfc47de/)
+*   The Complete JavaScript Course for Beginners: [link](https://youtu.be/CxgOKJh4zWE)
 
 ### Languages:
 
-**English:** Intermediate 
+**English:** Intermediate
+
 **Russian:** Native
+
 **Ukrainian** Upper-Intermediate
