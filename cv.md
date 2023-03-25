@@ -2,7 +2,7 @@
 
 ### Contact information:
 
-**Location:** Moscow, Russia 
+**Location:** Moscow, Russia  
 **Email:** <psborisov@vk.com>  
 **Github:** <https://github.com/rellqz>  
 **Telegram:** <https://t.me/rellqz>
@@ -36,8 +36,6 @@ No work experience
 
 ### Languages:
 
-**English:** Intermediate
-
-**Russian:** Native
-
+**English:** Intermediate  
+**Russian:** Native  
 **Ukrainian** Upper-Intermediate
