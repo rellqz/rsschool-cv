@@ -25,3 +25,18 @@ Figma, Adobe Photoshop, Adobe Illustrator
 ```js
 console.log((Infinity + Infinity) / 100);
 ```
+
+### Work experience:
+
+No work experience
+
+### Education and courses:
+
+*   HTML, CSS, JavaScript:  (https://practicum.yandex.ru/trainer/web/lesson/17973ae9-3a69-437f-9c47-96c82bfc47de/)
+*   The Complete JavaScript Course for Beginners:  (https://youtu.be/CxgOKJh4zWE)
+
+### Languages:
+
+**English:** Intermediate 
+**Russian:** Native
+**Ukrainian** Upper-Intermediate
