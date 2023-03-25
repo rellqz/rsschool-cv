@@ -8,3 +8,20 @@
 **Github:** <https://github.com/rellqz>  
 **Telegram:** <https://t.me/rellqz>
 
+### Some words about myself:
+
+Originally a poker player. For a long time I was looking for myself, and here I am. I hope this RSSchool will help me improve my skills.
+
+### Skills:
+
+HTML, CSS basics
+JavaScript basics
+Git, GitHub
+VS Code
+Figma, Adobe Photoshop, Adobe Illustrator
+
+### Code example:
+
+```js
+console.log((Infinity + Infinity) / 100);
+```
