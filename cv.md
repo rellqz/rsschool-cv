@@ -22,9 +22,7 @@ Figma, Adobe Photoshop, Adobe Illustrator
 ### Code example:
 
 ```js
-function multiply(a, b) {
-  return a * b;
-}
+const multiply = (a, b) => a * b
 ```
 
 ### Work experience:
