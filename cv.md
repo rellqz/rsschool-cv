@@ -22,7 +22,9 @@ Figma, Adobe Photoshop, Adobe Illustrator
 ### Code example:
 
 ```js
-console.log((Infinity + Infinity) / 100);
+function multiply(a, b) {
+  return a * b;
+}
 ```
 
 ### Work experience:
